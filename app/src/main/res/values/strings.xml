@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="timesecondtextpart">It Will Be...</string>
+    <string name="timetextfirstpart">At</string>
+</resources>
